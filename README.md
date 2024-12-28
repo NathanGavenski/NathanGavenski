@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I'm Nathan, a PhD student at King's College London.
 My research involves imitation learning and some other topics related to machine learning.
-Most of my papers have a public repository! So, if you are interested in any of them, please check my pinned repos.
+Most of my papers have a public repository! So, if you are interested in any of them, please check my pinned repositories.
 
 Before being a researcher, I was a software developer at ADP Brazil Labs and a quality analyst at IBM.
 I really enjoy creating things. Sometimes I'll have random repositories that make no sense.
