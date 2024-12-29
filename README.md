@@ -24,5 +24,5 @@ I really enjoy creating things. Sometimes I'll have random repositories that mak
 <br />
 <h3 align="center">My GitHub stats</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nathangavenski&show_icons=true&theme=radical&locale=en" alt="Nathan's GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nathangavenski&show_icons=true&theme=dracula&locale=en" alt="Nathan's GitHub stats" />
 </p>
